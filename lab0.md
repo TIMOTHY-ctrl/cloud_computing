@@ -2,6 +2,7 @@
 
 This lab is intended to get you set up with the project's infrastructure. Please go through all the steps, make sure that each one works, that you have access to everything described here.
 
+
 ## Groups
 The groups (4-5 members each) are now ready, and available on [Group Spreadsheet](https://docs.google.com/spreadsheets/d/13t3jHczDKj8iqPPlSoGburstmO8k4A8WeUYHTwfIiP8/edit?usp=share_link). Please take note of the group you are in, and the members of your group. Remember, this is what you provided and shall be working with for the rest of the semester. If you have any questions about your group membership, please contact me as soon as possible.
 
