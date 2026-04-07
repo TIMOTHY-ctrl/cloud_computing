@@ -10,7 +10,7 @@ I have also created group emails for each group. The group emails take the follo
 Group ID (name), csc26-<group_id>@cit.ac.ug`. For example, if you are in group DAA, your group email is `
 csc26-daa@cit.ac.ug `. In order to test this, let a member in the group send an email to the group email address and see if all members receive it. If you have any issues with the group email, please contact me. Also note that the spreadsheet above that is populated with your group and email information was used to create the group emails.
 
-For better collaboration in the team, I recommend you create your own private repository on GitHub and add all your team members as collaborators. You can then clone the repository to your local machine and push all important data there. This is also a good place to keep your notes and write up for the project. To access GitLab (https://gitlab.cranecloud.io/), you can use your class username and password with the LDAP option selected.
+For better collaboration in the team, I recommend you create your own private repository on GitHub and add all your team members as collaborators. You can then clone the repository to your local machine and push all important data there. This is also a good place to keep your notes and write up for the project. To access GitLab (<https://gitlab.cranecloud.io/>), you can use your class username and password with the LDAP option selected.
 
 ## Create a CloudLab Account ([Link](https://www.cloudlab.us/signup.php)) and join the Crane Cloud project. 
 
