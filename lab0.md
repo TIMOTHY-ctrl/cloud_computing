@@ -13,7 +13,7 @@ csc26-daa@cit.ac.ug `. In order to test this, let a member in the group send an 
 
 For better collaboration in the team, I recommend you create your own private repository on GitHub and add all your team members as collaborators. You can then clone the repository to your local machine and push all important data there. This is also a good place to keep your notes and write up for the project. To access GitLab (https://gitlab.cranecloud.io/), you can use your class username and password with the LDAP option selected.
 
-## Create a CloudLab Account ([Link](https://www.cloudlab.us/signup.php)) and join the Crane Cloud project 
+## Create a CloudLab Account ([Link](https://www.cloudlab.us/signup.php)) and join the Crane Cloud project. 
 
 The majority of the project runs on CloudLab, for which you need an account. To create an account, please use your Group Email and use the Group ID (such as csc26-daa, csc26-dab, etc.) as the username. Upload your SSH public key file as you use SSH to  access the nodes in CloudLab (For now, just have one key for a member of your group). Click on `Submit Request`. I will approve your request within 48 hours. 
 
